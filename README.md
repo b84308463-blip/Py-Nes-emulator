@@ -8,7 +8,6 @@ A high-performance Nintendo Entertainment System (NES) emulator written in pure 
 
 PY-NES features a modern, easy-to-use game launcher, full audio synthesis, support for over 30 memory mappers, and uses NumPy to vectorize PPU rendering and APU audio generation for smooth 60 FPS gameplay.
 
-*(If you have screenshots, uncomment the lines below)*
 <!-- 
 ![Launcher](launcher.png)
 ![Gameplay](gameplay.png)

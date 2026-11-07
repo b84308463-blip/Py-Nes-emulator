@@ -5,7 +5,6 @@ A high-performance Nintendo Entertainment System (NES) emulator written in pure 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Pygame](https://img.shields.io/badge/Pygame--CE-2.5%2B-green)
 ![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-purple)
 
 PY-NES features a modern, easy-to-use game launcher, full audio synthesis, support for over 30 memory mappers, and uses NumPy to vectorize PPU rendering and APU audio generation for smooth 60 FPS gameplay.
 
